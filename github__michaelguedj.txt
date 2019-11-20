@@ -1,0 +1,10 @@
+prog__srt2txt
+prog__sharpdoc
+prog__magix
+prog__123tools
+prog__my_scripts
+ens__scripts_systemes
+ens__prog_sci_python
+ens__programmation_c
+ens__algo_python
+ens__bases_de_reseaux
